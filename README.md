@@ -1,13 +1,11 @@
 <div align=center>
 <hi>
   
-# Hi there, 👋</hi>
+# Merhaba, 👋</hi>
 
-  Seung mfordusu's Github
+  mfordusu's Github
   
-  Im Korean student developer
-  
-  MY youtube : https://www.youtube.com/channel/UCTW9l6Ek8w3wOCiQSh1-zBQ
+  MY youtube : [https://www.youtube.com/channel/UCTW9l6Ek8w3wOCiQSh1-zBQ](https://www.youtube.com/channel/UC2TCnuQEWtVGtTBG2h37lNA)
 
 </div>
 
@@ -22,13 +20,5 @@
 </div>
 
 <div align=center>
-  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfordusuIsBack&show_icons=true&theme=vue)&nbsp;&nbsp;
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfordusuIsBack&layout=compact&theme=vue)
-</div>
 
 <div align=center>
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FmfordusuIsBack&count_bg=%23C725FF&title_bg=%232122FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
- 
-</div>
