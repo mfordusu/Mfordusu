@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Benim hakkımda:
 Problem çözmeyi ve yeni algoritmalar öğrenmeyi seven bir bilgisayar mühendisiyim. Düzenli olarak Hackerrank ve Leetcode üzerinde çalışıyorum. Burası projelerimi ve kodlarımı paylaştığım GitHub profilim.
 
 
